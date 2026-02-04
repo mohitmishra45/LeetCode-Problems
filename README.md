@@ -4,13 +4,27 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1051-height-checker](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/1051-height-checker) |
 ## Sorting
 |  |
 | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1051-height-checker](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/1051-height-checker) |
 ## Counting Sort
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/1051-height-checker) |
+## Hash Table
+|  |
+| ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 <!---LeetCode Topics End-->
