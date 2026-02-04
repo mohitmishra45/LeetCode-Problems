@@ -6,9 +6,12 @@ public:
         {
             if(nums[k]!=0)
             {
-                swap(nums[i],nums[k]);
-                i++;
+                swap(nums[i++],nums[k]);
+                
             }
+        }
+        while (i < nums.size()) {
+            nums[i++] = 0;
         }
     }
 };
