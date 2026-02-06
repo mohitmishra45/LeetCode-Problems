@@ -1,23 +1,22 @@
 class Solution {
 public:
     int findDuplicate(vector<int>& nums) {
-        // 3 steps
-        //Make two pointer and points to start
-        int slow=nums[0];
-        int fast=nums[0];
-        //Detect Cycle
-        do
-        {
-            slow=nums[slow];
-            fast=nums[nums[fast]];
-        }while(slow!=fast);
-        //Reset slow pointer to nums[0] then move slow and fast by one when they meet return the value return is duplicate
-        slow=nums[0];
-        while(slow!=fast)
-        {
-            slow=nums[slow];
-            fast=nums[fast];
+        int i = 0;
+
+        while (i < nums.size()) {
+            if (nums[i] != i + 1) {
+                int correctIndex = nums[i] - 1;
+
+                if (nums[i] == nums[correctIndex]) {
+                    return nums[i];  // duplicate found
+                }
+
+                swap(nums[i], nums[correctIndex]);
+            } else {
+                i++;
+            }
         }
-        return slow;
+
+        return -1;
     }
 };
