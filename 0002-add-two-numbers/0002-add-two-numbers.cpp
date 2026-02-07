@@ -10,16 +10,6 @@
  */
 class Solution {
 public:
-ListNode *Reverse(ListNode *curr,ListNode *prev)
-{
-    if(curr==NULL)
-    {
-        return prev;
-    }
-    ListNode *front=curr->next;
-    curr->next=prev;
-    return Reverse(front,curr);
-}
     ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {
         ListNode *temp1=l1;
         ListNode *temp2=l2;
@@ -52,7 +42,7 @@ ListNode *Reverse(ListNode *curr,ListNode *prev)
             tail=tail->next;
             carry=sum/10;
         }
-        while(carry)
+        while(carry!=NULL)
         {
             tail->next=new ListNode(carry%10);
             tail=tail->next;
