@@ -21,16 +21,13 @@ ListNode *Reverse(ListNode *curr,ListNode *prev)
     return Reverse(front,curr);
 }
     ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {
-        //  l1=Reverse(l1,NULL);
-        //  l2=Reverse(l2,NULL);
-        
         ListNode *temp1=l1;
         ListNode *temp2=l2;
         ListNode *dummy=new ListNode(-1);
         ListNode *tail=dummy;
         int sum=0;
-            int carry=0;
-        while(temp1&&temp2)
+        int carry=0;
+        while(temp1!=NULL&&temp2!=NULL)
         {
             sum=temp1->val+temp2->val+carry;
             tail->next=new ListNode(sum%10);
