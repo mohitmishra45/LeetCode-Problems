@@ -7,11 +7,11 @@ public:
         int count2=0;
         for(int i=0;i<nums.size();i++)
         {
-            if(nums[i]==candidate1 && count1>0)
+            if(nums[i]==candidate1)
             {
                 count1++;
             }
-            else if(nums[i]==candidate2 && count2>0)
+            else if(nums[i]==candidate2)
             {
                 count2++;
             }
