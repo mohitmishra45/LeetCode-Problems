@@ -36,7 +36,7 @@ ListNode *Reverse(ListNode *curr,ListNode *prev)
             temp2=temp2->next;
             tail=tail->next;
         }
-        while(temp1)
+        while(temp1!=NULL)
         {
             sum=temp1->val+carry;
             tail->next=new ListNode(sum%10);
@@ -44,7 +44,7 @@ ListNode *Reverse(ListNode *curr,ListNode *prev)
             tail=tail->next;
             carry=sum/10;
         }
-        while(temp2)
+        while(temp2!=NULL)
         {
             sum=temp2->val+carry;
             tail->next=new ListNode(sum%10);
