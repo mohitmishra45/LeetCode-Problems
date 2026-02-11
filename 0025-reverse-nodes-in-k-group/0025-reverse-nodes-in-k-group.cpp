@@ -23,7 +23,7 @@ public:
     }
 
     ListNode* reverseKGroup(ListNode* head, int k) {
-        if (head==NULL || k == 1) return head;
+        //if (head==NULL || k == 1) return head;
 
         ListNode* temp = head;
         ListNode *prevLast=NULL;
