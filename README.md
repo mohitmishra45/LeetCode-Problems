@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
+| [0735-asteroid-collision](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/0735-asteroid-collision) |
 | [1051-height-checker](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/1051-height-checker) |
 | [1929-concatenation-of-array](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/1929-concatenation-of-array) |
 | [3719-longest-balanced-subarray-i](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/3719-longest-balanced-subarray-i) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/0735-asteroid-collision) |
 | [1929-concatenation-of-array](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/1929-concatenation-of-array) |
 ## Math
 |  |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
+| [0735-asteroid-collision](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/0735-asteroid-collision) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Merge Sort
