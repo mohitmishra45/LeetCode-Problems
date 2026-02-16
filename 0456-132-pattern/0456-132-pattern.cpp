@@ -11,7 +11,7 @@ public:
             {
                 return true;
             }
-         while(st.size()!=0 && st.top()<nums[i])
+         while(!st.empty() && st.top()<nums[i])
          {
             temp=st.top();
             st.pop();
