@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 ## Linked List
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0148-sort-list](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/0190-reverse-bits) |
 | [1382-balance-a-binary-search-tree](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/3721-longest-balanced-subarray-ii) |
