@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/0735-asteroid-collision) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Merge Sort
 |  |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/0020-valid-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [3713-longest-balanced-substring-i](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/3714-longest-balanced-substring-ii) |
