@@ -1,27 +1,18 @@
 class Solution {
 public:
-    vector<int> dailyTemperatures(vector<int>& temperatures) {
-        int n = temperatures.size();
-        vector<int> result(n, 0);
-        stack<int> st;  // store indices
-        
-        for (int i = n - 1; i >= 0; i--) {
-            
-            // Remove all smaller or equal temperatures
-            while (!st.empty() && 
-                   temperatures[i] >= temperatures[st.top()]) {
+    vector<int> dailyTemperatures(vector<int>& arr) {
+        int n=arr.size();
+        vector<int>ans(n,0);
+        stack<int>st;
+        for(int i=n-1;i>=0;i--)
+        {
+            while(st.size()!=0 && arr[i]>=arr[st.top()])
+            {
                 st.pop();
             }
-            
-            // If stack not empty → next warmer day exists
-            if (!st.empty()) {
-                result[i] = st.top() - i;
-            }
-            
-            // Push current index
+            if(st.size()!=0) ans[i]=st.top()-i;
             st.push(i);
         }
-        
-        return result;
+        return ans;
     }
 };
