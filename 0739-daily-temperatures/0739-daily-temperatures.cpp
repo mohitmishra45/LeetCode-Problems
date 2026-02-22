@@ -4,6 +4,7 @@ public:
         int n=arr.size();
         stack<int>st;
         vector<int>ans(n,0);
+        if(n==0) return ans;
         st.push(n-1);
         ans[n-1]=0;
         for(int i=n-2;i>=0;i--)
