@@ -1,38 +1,30 @@
-/**
- * Definition for a binary tree node.
- * struct TreeNode {
- *     int val;
- *     TreeNode *left;
- *     TreeNode *right;
- *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
- *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
- *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left),
- * right(right) {}
- * };
- */
 class Solution {
 public:
-    void helper(TreeNode* root, vector<int>& v, vector<vector<int>>& ans,
-                int sum) {
-        if (root == NULL)
-            return;
+    void dfs(TreeNode* root, int target,
+             vector<int>& path,
+             vector<vector<int>>& ans)
+    {
+        if(!root) return;
 
-        v.push_back(root->val);
+        path.push_back(root->val);
 
-        if (root->left == NULL && root->right == NULL) {
-            if (sum == root->val)
-                ans.push_back(v);
-        } else {
-            helper(root->left, v, ans, sum - root->val);
-            helper(root->right, v, ans, sum - root->val);
+        if(!root->left && !root->right && target == root->val)
+        {
+            ans.push_back(path);
+        }
+        else
+        {
+            dfs(root->left, target - root->val, path, ans);
+            dfs(root->right, target - root->val, path, ans);
         }
 
-        v.pop_back();
+        path.pop_back();  // backtrack
     }
+
     vector<vector<int>> pathSum(TreeNode* root, int targetSum) {
         vector<vector<int>> ans;
-        vector<int> v;
-        helper(root, v, ans, targetSum);
+        vector<int> path;
+        dfs(root, targetSum, path, ans);
         return ans;
     }
 };
