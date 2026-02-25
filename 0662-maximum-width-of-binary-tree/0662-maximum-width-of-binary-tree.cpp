@@ -1,17 +1,7 @@
-/**
- * Definition for a binary tree node.
- * struct TreeNode {
- *     int val;
- *     TreeNode *left;
- *     TreeNode *right;
- *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
- *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
- *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
- * };
- */
 class Solution {
 public:
     int widthOfBinaryTree(TreeNode* root) {
+        //Pair is a object that store two data type pair<type1,type2>
         queue<pair<TreeNode*, unsigned long long>>q;
         //0 based indexing
         q.push({root,0});
@@ -21,12 +11,13 @@ public:
             int n=q.size();
             unsigned long long stIndex=q.front().second;
             unsigned long long lstIndex=q.back().second;
-            // int currWidth=lstIndex-stIndex+1;
-            maxWidth=max(maxWidth,(int)(lstIndex-stIndex+1));
+            int currWidth=lstIndex-stIndex+1;
+            maxWidth=max(maxWidth,(int)currWidth);
 
             //Level By Level
             for(int i=0;i<n;i++)
             {
+                //Auto Automatically detect the data type
                 auto curr=q.front();
                 q.pop();
                 if(curr.first->left)
