@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/0543-diameter-of-binary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/0662-maximum-width-of-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/0993-cousins-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/1382-balance-a-binary-search-tree) |
 ## Depth-First Search
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/0543-diameter-of-binary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/0662-maximum-width-of-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/0993-cousins-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Tree
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/0543-diameter-of-binary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/0662-maximum-width-of-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/0993-cousins-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/1382-balance-a-binary-search-tree) |
 ## Greedy
@@ -285,5 +288,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/0226-invert-binary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/0662-maximum-width-of-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/0993-cousins-in-binary-tree) |
 <!---LeetCode Topics End-->
