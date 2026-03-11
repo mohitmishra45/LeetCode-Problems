@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0401-binary-watch](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/0401-binary-watch) |
+| [1009-complement-of-base-10-integer](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/1009-complement-of-base-10-integer) |
 ## Linked List
 |  |
 | ------- |
