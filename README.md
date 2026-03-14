@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/0015-3sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/0035-search-insert-position) |
 | [0084-largest-rectangle-in-histogram](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/0084-largest-rectangle-in-histogram) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/0015-3sum) |
 | [0148-sort-list](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/0015-3sum) |
 | [0061-rotate-list](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/0061-rotate-list) |
 | [0148-sort-list](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
