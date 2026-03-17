@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0456-132-pattern](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0735-asteroid-collision](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/0739-daily-temperatures) |
 | [0912-sort-an-array](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/0912-sort-an-array) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3713-longest-balanced-substring-i](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/3714-longest-balanced-substring-ii) |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [3714-longest-balanced-substring-ii](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/3721-longest-balanced-subarray-ii) |
