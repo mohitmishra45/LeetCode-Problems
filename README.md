@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0456-132-pattern](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/0456-132-pattern) |
+| [0485-max-consecutive-ones](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/mohitmishra45/LeetCode-Problems/tree/master/0643-maximum-average-subarray-i) |
